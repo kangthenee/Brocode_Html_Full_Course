@@ -1,0 +1,24 @@
+main{
+    background-color: tomato;
+}
+
+#title {
+    background-color: aqua;
+    color: blue;
+}
+
+#one{
+    color: rgb(201, 204, 29);
+}
+
+#two{
+    color: #23137e;
+}
+
+#three{
+    color: hsl(324, 43%, 77%);
+}
+
+#four{
+    color: hwb(71 9% 10%);
+}
