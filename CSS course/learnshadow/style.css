@@ -1,0 +1,13 @@
+h1{
+    /* vertikal horizontal blur color*/
+    /* bisa di combo seperti contoh dibawah*/
+    text-shadow: 3px 3px 3px red, -3px -3px 3px rgb(197, 18, 241);
+}
+
+#box{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    /* tanpa warna jugba bisa*/
+    box-shadow: 3px 3px 3px;
+}
