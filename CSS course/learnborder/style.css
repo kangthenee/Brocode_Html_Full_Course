@@ -1,0 +1,18 @@
+.borderjudul{
+    border:1px dotted black;
+}
+.borderbiasa{
+    border: 1px solid black;
+}
+.borderkanan{
+    border-right: 1px solid black;
+}
+.borderkiri{
+    border-left: 1px solid black;
+}
+.borderatas{
+    border-top: 1px solid black;
+}
+.borderbawah{
+    border-bottom: 1px solid black;
+}
